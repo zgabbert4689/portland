@@ -5,6 +5,7 @@
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"lTestObjects","order":3,"path":"folders/Objects/lTestObjects.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
@@ -13,8 +14,14 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"ltestsprites","order":1,"path":"folders/Sprites/ltestsprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"sTestPlayer","order":1,"path":"objects/sTestPlayer/sTestPlayer.yy",},
+    {"name":"sTestWall","order":2,"path":"objects/sTestWall/sTestWall.yy",},
+    {"name":"sTestSpriteE","order":2,"path":"sprites/sTestSpriteE/sTestSpriteE.yy",},
+    {"name":"sTestSpriteW","order":1,"path":"sprites/sTestSpriteW/sTestSpriteW.yy",},
+  ],
 }
