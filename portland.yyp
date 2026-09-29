@@ -39,10 +39,17 @@
   "name":"portland",
   "resources":[
     {"id":{"name":"zUI","path":"objects/zUI/zUI.yy",},},
+    {"id":{"name":"sTestEnemy","path":"objects/sTestEnemy/sTestEnemy.yy",},},
+    {"id":{"name":"sTestPlayer","path":"objects/sTestPlayer/sTestPlayer.yy",},},
+    {"id":{"name":"sTestWall","path":"objects/sTestWall/sTestWall.yy",},},
 <<<<<<< HEAD
     {"id":{"name":"TestJordan","path":"objects/TestJordan/TestJordan.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"sData","path":"scripts/sData/sData.yy",},},
+    {"id":{"name":"sTestSpriteE","path":"sprites/sTestSpriteE/sTestSpriteE.yy",},},
+    {"id":{"name":"sTestspriteP","path":"sprites/sTestspriteP/sTestspriteP.yy",},},
+    {"id":{"name":"sTestSpriteW","path":"sprites/sTestSpriteW/sTestSpriteW.yy",},},
     {"id":{"name":"TestSpritePlayer","path":"sprites/TestSpritePlayer/TestSpritePlayer.yy",},},
 =======
 <<<<<<< HEAD
