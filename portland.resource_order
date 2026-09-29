@@ -26,6 +26,12 @@
     {"name":"sTestSpriteW","order":1,"path":"sprites/sTestSpriteW/sTestSpriteW.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"sTestPlayer","order":1,"path":"objects/sTestPlayer/sTestPlayer.yy",},
+    {"name":"sTestWall","order":2,"path":"objects/sTestWall/sTestWall.yy",},
+    {"name":"sTestSpriteE","order":2,"path":"sprites/sTestSpriteE/sTestSpriteE.yy",},
+    {"name":"sTestSpriteW","order":1,"path":"sprites/sTestSpriteW/sTestSpriteW.yy",},
+  ],
+  "ResourceOrderSettings":[
 <<<<<<< HEAD
     {"name":"TestSpritePlayer","order":1,"path":"sprites/TestSpritePlayer/TestSpritePlayer.yy",},
 =======

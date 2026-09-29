@@ -38,6 +38,7 @@
   },
   "name":"portland",
   "resources":[
+<<<<<<< HEAD
     {"id":{"name":"zUI","path":"objects/zUI/zUI.yy",},},
     {"id":{"name":"sTestEnemy","path":"objects/sTestEnemy/sTestEnemy.yy",},},
     {"id":{"name":"sTestPlayer","path":"objects/sTestPlayer/sTestPlayer.yy",},},
@@ -46,6 +47,16 @@
     {"id":{"name":"TestJordan","path":"objects/TestJordan/TestJordan.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+=======
+    {"id":{"name":"sTestEnemy","path":"objects/sTestEnemy/sTestEnemy.yy",},},
+    {"id":{"name":"sTestPlayer","path":"objects/sTestPlayer/sTestPlayer.yy",},},
+    {"id":{"name":"sTestWall","path":"objects/sTestWall/sTestWall.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sData","path":"scripts/sData/sData.yy",},},
+    {"id":{"name":"sTestSpriteE","path":"sprites/sTestSpriteE/sTestSpriteE.yy",},},
+    {"id":{"name":"sTestspriteP","path":"sprites/sTestspriteP/sTestspriteP.yy",},},
+    {"id":{"name":"sTestSpriteW","path":"sprites/sTestSpriteW/sTestSpriteW.yy",},},
+>>>>>>> ce7c460e7086fbc1556d3769876e156291f7fbf2
     {"id":{"name":"sData","path":"scripts/sData/sData.yy",},},
     {"id":{"name":"sTestSpriteE","path":"sprites/sTestSpriteE/sTestSpriteE.yy",},},
     {"id":{"name":"sTestspriteP","path":"sprites/sTestspriteP/sTestspriteP.yy",},},
